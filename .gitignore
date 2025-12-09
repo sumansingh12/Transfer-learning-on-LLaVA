@@ -1,0 +1,14 @@
+# Windows system and user files ko ignore karein
+ntuser.dat
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# VS Code aur Python ke internal files ko ignore karein
+.vscode/
+
+# Temp files
+*.tmp
+
+# Fatal error wali specific file ko ignore karein (Agar yeh root mein ho)
+AppData/
